@@ -1,9 +1,10 @@
-I'm a senior high school stduent.
+> 👋 Hello, I'm a senior high school stduent.
 
-![redbeanw's github stats](https://github-readme-stats.vercel.app/api?username=redbeanw44602&show_icons=true)
-![most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redbeanw44602&layout=compact)
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=redbeanw44602&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=true" alt="RedbeanW's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redbeanw44602&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+| ------------- | ------------- |
 
-- 🔭 I’m currently working on Cookie Club.
-- 🌱 I’m currently learning C++,C#,Python,Lua.
-- 😄 Pronouns: Birds
-- ⚡ Fun fact: Enjoy with Minecraft
+ - 🔭 I have an MCBE server! [Let's Play](https://mcce.im/)
+ - 🌱 I’m currently learning C++, Python and .NET.
+ - 🔑 I support free speech and democracy.
+ - 🧪 Chemistry is my favourite subject.
+ - 📖 I want real knowledge, not JUST EXAMS.
