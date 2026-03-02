@@ -37,5 +37,3 @@
 <br>
 
 GPG Key: `F687 8831 BE35 FA38`
-
-Some of my projects are self-hosted on [Gitea](https://gitea.bedrockdebug.info/).
